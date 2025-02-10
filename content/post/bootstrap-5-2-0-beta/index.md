@@ -1,19 +1,27 @@
 ---
-title: "Bootstrap 5.2.0 beta"
-description: "It’s the biggest release since v5 itself—Bootstrap v5.2.0-beta1 is here!"
-date: 2022-05-13T13:00:44+01:00
+title: "TABot 1.0 Beta"
+description: "The first release of TABot is here!"
+date: 2025-02-10T13:00:44+01:00
 draft: false
-images: ["bootstrap-5-2-0-beta.png"]
-categories: ["The Bootstrap Blog"]
-tags: ["Bootstrap"]
-keywords: ["bootstrap 5 2 0 beta","bootstrap 5","bootstrap"]
-authors: ["Mark Otto"]
+images: ["tabot-release.png"]
+categories: ["The TABot Blog"]
+tags: ["TABot", "AI", "Teaching Assistant"]
+keywords: ["TABot 1.0 beta", "AI assistant", "education technology"]
+authors: ["Wesley Liu"]
 noindex: true
 ---
 
-![Bootstrap 5 2 0 Beta](bootstrap-5-2-0-beta.png)
-{ .img-fluid }
+TABot 1.0 Beta
 
-> It’s the biggest release since v5 itself—**Bootstrap v5.2.0-beta1 is here!** This release features redesigned docs, CSS variables for all our components, responsive offcanvas, new helpers and utilities, refined buttons and inputs, and lots of improvements under the hood.
+> We are excited to announce the launch of **TABot 1.0 Beta**! This release introduces a powerful AI-driven teaching assistant designed to enhance the learning experience for students and educators alike.
 
-Given the size of the update and time since our last release, we’re doing something different and shipping it as a beta first. [Keep reading for details](https://blog.getbootstrap.com/2022/05/13/bootstrap-5-2-0-beta/).
+TABot leverages advanced machine learning algorithms to provide instant responses to student inquiries, making it an invaluable resource for maintaining study momentum outside of traditional classroom hours. 
+
+### Key Features:
+- **Course Material Upload**: Instructors can upload course materials (PDFs, lecture notes) to train TABot, ensuring accurate responses based on course content.
+- **Historical Data Integration**: Teaching assistants can upload past Q&A data, allowing TABot to learn from previous interactions and common questions.
+- **Instant Responses**: Students can ask questions anytime and receive immediate answers, even when teaching assistants are unavailable.
+- **AI Response Review**: Instructors can review and modify TABot's responses to ensure accuracy and appropriateness.
+- **Usage Metrics Tracking**: Administrators can track usage metrics across different courses to optimize resource allocation and improve the system.
+
+Given the size of this update and the time since our last release, we're launching it as a beta first.
