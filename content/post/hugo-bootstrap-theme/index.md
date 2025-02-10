@@ -16,9 +16,10 @@ aliases:
 
 Open-source MIT Licensed Hugo Theme, using Bootstrap 5.
 
-- 🛡️ Security aware
+- 📄 Course Material Upload
 
-  Get A+ scores on Mozilla Observatory out of the box. Easily change the default Security Headers to suit your needs.
+  Upload PDFs and lecture notes to train AI assistants, ensuring accurate responses based on course content.
+
 
 - ⚡ Fast by default
 
