@@ -1,7 +1,7 @@
-baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
+baseURL = 'https://wesleyyliu.github.io/hugo-mock-landing-page/'
 title = "TABot"
-author = "Filipe Carneiro"
-copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed. Wesley Liu, 2025"
+author = "Wesley Liu"
+copyright = "Wesley Liu 2025"
 
 timeZone = 'Europe/London'
 
