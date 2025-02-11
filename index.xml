@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TABot</title>
-    <link>https://wesleyyliu.github.io/hugo-mock-landing-page/</link>
+    <link>http://localhost:1313/hugo-mock-landing-page/</link>
     <description>Recent content on TABot</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Wesley Liu 2025</copyright>
     <lastBuildDate>Mon, 10 Feb 2025 18:44:30 -0500</lastBuildDate>
-    <atom:link href="https://wesleyyliu.github.io/hugo-mock-landing-page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hugo-mock-landing-page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TABot 1.0 Beta</title>
-      <link>https://wesleyyliu.github.io/hugo-mock-landing-page/post/bootstrap-5-2-0-beta/</link>
+      <link>http://localhost:1313/hugo-mock-landing-page/post/bootstrap-5-2-0-beta/</link>
       <pubDate>Mon, 10 Feb 2025 13:00:44 +0100</pubDate>
-      <guid>https://wesleyyliu.github.io/hugo-mock-landing-page/post/bootstrap-5-2-0-beta/</guid>
+      <guid>http://localhost:1313/hugo-mock-landing-page/post/bootstrap-5-2-0-beta/</guid>
       <description>&lt;p&gt;TABot 1.0 Beta&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;We are excited to announce the launch of &lt;strong&gt;TABot 1.0 Beta&lt;/strong&gt;! This release introduces a powerful AI-driven teaching assistant designed to enhance the learning experience for students and educators alike.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;TABot leverages advanced machine learning algorithms to provide instant responses to student inquiries, making it an invaluable resource for maintaining study momentum outside of traditional classroom hours.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-features&#34;&gt;Key Features:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Course Material Upload&lt;/strong&gt;: Instructors can upload course materials (PDFs, lecture notes) to train TABot, ensuring accurate responses based on course content.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Historical Data Integration&lt;/strong&gt;: Teaching assistants can upload past Q&amp;amp;A data, allowing TABot to learn from previous interactions and common questions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Instant Responses&lt;/strong&gt;: Students can ask questions anytime and receive immediate answers, even when teaching assistants are unavailable.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;AI Response Review&lt;/strong&gt;: Instructors can review and modify TABot&amp;rsquo;s responses to ensure accuracy and appropriateness.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Usage Metrics Tracking&lt;/strong&gt;: Administrators can track usage metrics across different courses to optimize resource allocation and improve the system.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Given the size of this update and the time since our last release, we&amp;rsquo;re launching it as a beta first.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://wesleyyliu.github.io/hugo-mock-landing-page/about/</link>
+      <link>http://localhost:1313/hugo-mock-landing-page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wesleyyliu.github.io/hugo-mock-landing-page/about/</guid>
+      <guid>http://localhost:1313/hugo-mock-landing-page/about/</guid>
       <description>&lt;h1 id=&#34;about-us&#34;&gt;About Us&lt;/h1&gt;&#xA;&lt;p&gt;Made with ❤️ by the &lt;em&gt;Hugo Bootstrap Theme&lt;/em&gt; &lt;a href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;team&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Code of Conduct</title>
-      <link>https://wesleyyliu.github.io/hugo-mock-landing-page/code-of-conduct/</link>
+      <link>http://localhost:1313/hugo-mock-landing-page/code-of-conduct/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wesleyyliu.github.io/hugo-mock-landing-page/code-of-conduct/</guid>
+      <guid>http://localhost:1313/hugo-mock-landing-page/code-of-conduct/</guid>
       <description>&lt;h1 id=&#34;contributor-covenant-code-of-conduct&#34;&gt;Contributor Covenant Code of Conduct&lt;/h1&gt;&#xA;&lt;h2 id=&#34;our-pledge&#34;&gt;Our Pledge&lt;/h2&gt;&#xA;&lt;p&gt;We as members, contributors, and leaders pledge to make participation in our&#xA;community a harassment-free experience for everyone, regardless of age, body&#xA;size, visible or invisible disability, ethnicity, sex characteristics, gender&#xA;identity and expression, level of experience, education, socio-economic status,&#xA;nationality, personal appearance, race, caste, color, religion, or sexual&#xA;identity and orientation.&lt;/p&gt;&#xA;&lt;p&gt;We pledge to act and interact in ways that contribute to an open, welcoming,&#xA;diverse, inclusive, and healthy community.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://wesleyyliu.github.io/hugo-mock-landing-page/contact/</link>
+      <link>http://localhost:1313/hugo-mock-landing-page/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wesleyyliu.github.io/hugo-mock-landing-page/contact/</guid>
+      <guid>http://localhost:1313/hugo-mock-landing-page/contact/</guid>
       <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open an issue&lt;/a&gt; on GitHub.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>https://wesleyyliu.github.io/hugo-mock-landing-page/privacy-policy/</link>
+      <link>http://localhost:1313/hugo-mock-landing-page/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wesleyyliu.github.io/hugo-mock-landing-page/privacy-policy/</guid>
+      <guid>http://localhost:1313/hugo-mock-landing-page/privacy-policy/</guid>
       <description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;: We do not use cookies and we do not collect any personal data.&lt;/p&gt;&#xA;&lt;h2 id=&#34;website-visitors&#34;&gt;Website visitors&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No personal information is collected.&lt;/li&gt;&#xA;&lt;li&gt;No information is stored in the browser.&lt;/li&gt;&#xA;&lt;li&gt;No information is shared with, sent to or sold to third-parties.&lt;/li&gt;&#xA;&lt;li&gt;No information is shared with advertising companies.&lt;/li&gt;&#xA;&lt;li&gt;No information is mined and harvested for personal and behavioral trends.&lt;/li&gt;&#xA;&lt;li&gt;No information is monetized.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;information-we-collect-and-what-we-use-it-for&#34;&gt;Information we collect and what we use it for&lt;/h2&gt;&#xA;&lt;p&gt;The server hosting this site can collect the following information:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sobre</title>
-      <link>https://wesleyyliu.github.io/hugo-mock-landing-page/about.pt/</link>
+      <link>http://localhost:1313/hugo-mock-landing-page/about.pt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wesleyyliu.github.io/hugo-mock-landing-page/about.pt/</guid>
+      <guid>http://localhost:1313/hugo-mock-landing-page/about.pt/</guid>
       <description>&lt;h1 id=&#34;sobre-nós&#34;&gt;Sobre nós&lt;/h1&gt;&#xA;&lt;p&gt;Feito com ❤️ pela &lt;a href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;equipa&lt;/a&gt; &lt;em&gt;Hugo Bootstrap Theme&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

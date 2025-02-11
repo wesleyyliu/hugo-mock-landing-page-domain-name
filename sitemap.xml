@@ -2,101 +2,101 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wesleyyliu.github.io/hugo-mock-landing-page/tags/ai/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/tags/ai/</loc>
     <lastmod>2025-02-10T18:44:30-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://wesleyyliu.github.io/hugo-mock-landing-page/authors/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/authors/</loc>
     <lastmod>2025-02-10T18:44:30-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://wesleyyliu.github.io/hugo-mock-landing-page/categories/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/categories/</loc>
     <lastmod>2025-02-10T18:44:30-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://wesleyyliu.github.io/hugo-mock-landing-page/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/</loc>
     <lastmod>2025-02-10T18:44:30-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://wesleyyliu.github.io/hugo-mock-landing-page/tags/tabot/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/tags/tabot/</loc>
     <lastmod>2025-02-10T18:44:30-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://wesleyyliu.github.io/hugo-mock-landing-page/tags/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/tags/</loc>
     <lastmod>2025-02-10T18:44:30-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://wesleyyliu.github.io/hugo-mock-landing-page/tags/teaching-assistant/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/tags/teaching-assistant/</loc>
     <lastmod>2025-02-10T18:44:30-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://wesleyyliu.github.io/hugo-mock-landing-page/categories/the-tabot-blog/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/categories/the-tabot-blog/</loc>
     <lastmod>2025-02-10T18:44:30-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://wesleyyliu.github.io/hugo-mock-landing-page/authors/wesley-liu/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/authors/wesley-liu/</loc>
     <lastmod>2025-02-10T18:44:30-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://wesleyyliu.github.io/hugo-mock-landing-page/about/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/about/</loc>
     <lastmod>2025-02-10T12:50:39-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://wesleyyliu.github.io/hugo-mock-landing-page/code-of-conduct/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/code-of-conduct/</loc>
     <lastmod>2025-02-10T12:50:39-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://wesleyyliu.github.io/hugo-mock-landing-page/contact/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/contact/</loc>
     <lastmod>2025-02-10T12:50:39-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://wesleyyliu.github.io/hugo-mock-landing-page/page/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/page/</loc>
     <lastmod>2025-02-10T12:50:39-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://wesleyyliu.github.io/hugo-mock-landing-page/authors/filipe-carneiro/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/authors/filipe-carneiro/</loc>
     <lastmod>2025-02-10T12:50:39-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://wesleyyliu.github.io/hugo-mock-landing-page/tags/index/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/tags/index/</loc>
     <lastmod>2025-02-10T12:50:39-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://wesleyyliu.github.io/hugo-mock-landing-page/post/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/post/</loc>
     <lastmod>2025-02-10T12:50:39-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://wesleyyliu.github.io/hugo-mock-landing-page/tags/privacy/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/tags/privacy/</loc>
     <lastmod>2025-02-10T12:50:39-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://wesleyyliu.github.io/hugo-mock-landing-page/privacy-policy/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/privacy-policy/</loc>
     <lastmod>2025-02-10T12:50:39-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://wesleyyliu.github.io/hugo-mock-landing-page/series/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/series/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://wesleyyliu.github.io/hugo-mock-landing-page/about.pt/</loc>
+    <loc>http://localhost:1313/hugo-mock-landing-page/about.pt/</loc>
     <lastmod>2025-02-10T12:50:39-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

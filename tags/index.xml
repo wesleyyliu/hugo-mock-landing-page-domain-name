@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on TABot</title>
-    <link>https://wesleyyliu.github.io/hugo-mock-landing-page/tags/</link>
+    <link>http://localhost:1313/hugo-mock-landing-page/tags/</link>
     <description>Recent content in Tags on TABot</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Wesley Liu 2025</copyright>
     <lastBuildDate>Mon, 10 Feb 2025 18:44:30 -0500</lastBuildDate>
-    <atom:link href="https://wesleyyliu.github.io/hugo-mock-landing-page/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hugo-mock-landing-page/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>https://wesleyyliu.github.io/hugo-mock-landing-page/tags/ai/</link>
+      <link>http://localhost:1313/hugo-mock-landing-page/tags/ai/</link>
       <pubDate>Mon, 10 Feb 2025 13:00:44 +0100</pubDate>
-      <guid>https://wesleyyliu.github.io/hugo-mock-landing-page/tags/ai/</guid>
+      <guid>http://localhost:1313/hugo-mock-landing-page/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>TABot</title>
-      <link>https://wesleyyliu.github.io/hugo-mock-landing-page/tags/tabot/</link>
+      <link>http://localhost:1313/hugo-mock-landing-page/tags/tabot/</link>
       <pubDate>Mon, 10 Feb 2025 13:00:44 +0100</pubDate>
-      <guid>https://wesleyyliu.github.io/hugo-mock-landing-page/tags/tabot/</guid>
+      <guid>http://localhost:1313/hugo-mock-landing-page/tags/tabot/</guid>
       <description></description>
     </item>
     <item>
       <title>Teaching Assistant</title>
-      <link>https://wesleyyliu.github.io/hugo-mock-landing-page/tags/teaching-assistant/</link>
+      <link>http://localhost:1313/hugo-mock-landing-page/tags/teaching-assistant/</link>
       <pubDate>Mon, 10 Feb 2025 13:00:44 +0100</pubDate>
-      <guid>https://wesleyyliu.github.io/hugo-mock-landing-page/tags/teaching-assistant/</guid>
+      <guid>http://localhost:1313/hugo-mock-landing-page/tags/teaching-assistant/</guid>
       <description></description>
     </item>
     <item>
       <title>Index</title>
-      <link>https://wesleyyliu.github.io/hugo-mock-landing-page/tags/index/</link>
+      <link>http://localhost:1313/hugo-mock-landing-page/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wesleyyliu.github.io/hugo-mock-landing-page/tags/index/</guid>
+      <guid>http://localhost:1313/hugo-mock-landing-page/tags/index/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>https://wesleyyliu.github.io/hugo-mock-landing-page/tags/privacy/</link>
+      <link>http://localhost:1313/hugo-mock-landing-page/tags/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wesleyyliu.github.io/hugo-mock-landing-page/tags/privacy/</guid>
+      <guid>http://localhost:1313/hugo-mock-landing-page/tags/privacy/</guid>
       <description></description>
     </item>
   </channel>
