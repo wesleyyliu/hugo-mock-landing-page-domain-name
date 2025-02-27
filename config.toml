@@ -1,4 +1,4 @@
-baseURL = 'teaching.boats'
+baseURL = 'http://teaching.boats/'
 title = "TABot"
 author = "Wesley Liu"
 copyright = "Wesley Liu 2025"
