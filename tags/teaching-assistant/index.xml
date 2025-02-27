@@ -1,20 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Teaching Assistant on TABot</title>
-    <link>http://localhost:1313/hugo-mock-landing-page/tags/teaching-assistant/</link>
-    <description>Recent content in Teaching Assistant on TABot</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Wesley Liu 2025</copyright>
-    <lastBuildDate>Mon, 10 Feb 2025 18:44:30 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-mock-landing-page/tags/teaching-assistant/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>TABot 1.0 Beta</title>
-      <link>http://localhost:1313/hugo-mock-landing-page/post/bootstrap-5-2-0-beta/</link>
-      <pubDate>Mon, 10 Feb 2025 13:00:44 +0100</pubDate>
-      <guid>http://localhost:1313/hugo-mock-landing-page/post/bootstrap-5-2-0-beta/</guid>
-      <description>&lt;p&gt;TABot 1.0 Beta&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;We are excited to announce the launch of &lt;strong&gt;TABot 1.0 Beta&lt;/strong&gt;! This release introduces a powerful AI-driven teaching assistant designed to enhance the learning experience for students and educators alike.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;TABot leverages advanced machine learning algorithms to provide instant responses to student inquiries, making it an invaluable resource for maintaining study momentum outside of traditional classroom hours.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-features&#34;&gt;Key Features:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Course Material Upload&lt;/strong&gt;: Instructors can upload course materials (PDFs, lecture notes) to train TABot, ensuring accurate responses based on course content.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Historical Data Integration&lt;/strong&gt;: Teaching assistants can upload past Q&amp;amp;A data, allowing TABot to learn from previous interactions and common questions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Instant Responses&lt;/strong&gt;: Students can ask questions anytime and receive immediate answers, even when teaching assistants are unavailable.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;AI Response Review&lt;/strong&gt;: Instructors can review and modify TABot&amp;rsquo;s responses to ensure accuracy and appropriateness.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Usage Metrics Tracking&lt;/strong&gt;: Administrators can track usage metrics across different courses to optimize resource allocation and improve the system.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Given the size of this update and the time since our last release, we&amp;rsquo;re launching it as a beta first.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Teaching Assistant on TABot</title><link>https://wesleyyliu.github.io/hugo-mock-landing-page-autodeployed/tags/teaching-assistant/</link><description>Recent content in Teaching Assistant on TABot</description><generator>Hugo</generator><language>en</language><copyright>Wesley Liu 2025</copyright><lastBuildDate>Thu, 27 Feb 2025 17:18:24 +0000</lastBuildDate><atom:link href="https://wesleyyliu.github.io/hugo-mock-landing-page-autodeployed/tags/teaching-assistant/index.xml" rel="self" type="application/rss+xml"/><item><title>TABot 1.0 Beta</title><link>https://wesleyyliu.github.io/hugo-mock-landing-page-autodeployed/post/bootstrap-5-2-0-beta/</link><pubDate>Mon, 10 Feb 2025 13:00:44 +0100</pubDate><guid>https://wesleyyliu.github.io/hugo-mock-landing-page-autodeployed/post/bootstrap-5-2-0-beta/</guid><description>&lt;p>TABot 1.0 Beta&lt;/p>
+&lt;blockquote>
+&lt;p>We are excited to announce the launch of &lt;strong>TABot 1.0 Beta&lt;/strong>! This release introduces a powerful AI-driven teaching assistant designed to enhance the learning experience for students and educators alike.&lt;/p>&lt;/blockquote>
+&lt;p>TABot leverages advanced machine learning algorithms to provide instant responses to student inquiries, making it an invaluable resource for maintaining study momentum outside of traditional classroom hours.&lt;/p>
+&lt;h3 id="key-features">Key Features:&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Course Material Upload&lt;/strong>: Instructors can upload course materials (PDFs, lecture notes) to train TABot, ensuring accurate responses based on course content.&lt;/li>
+&lt;li>&lt;strong>Historical Data Integration&lt;/strong>: Teaching assistants can upload past Q&amp;amp;A data, allowing TABot to learn from previous interactions and common questions.&lt;/li>
+&lt;li>&lt;strong>Instant Responses&lt;/strong>: Students can ask questions anytime and receive immediate answers, even when teaching assistants are unavailable.&lt;/li>
+&lt;li>&lt;strong>AI Response Review&lt;/strong>: Instructors can review and modify TABot&amp;rsquo;s responses to ensure accuracy and appropriateness.&lt;/li>
+&lt;li>&lt;strong>Usage Metrics Tracking&lt;/strong>: Administrators can track usage metrics across different courses to optimize resource allocation and improve the system.&lt;/li>
+&lt;/ul>
+&lt;p>Given the size of this update and the time since our last release, we&amp;rsquo;re launching it as a beta first.&lt;/p></description></item></channel></rss>
